@@ -1,6 +1,5 @@
 Reproducible Research: Peer Assessment 2
 ==========================================
-Created by Xiaodan Zhang on July 25, 2014
 
 ## Impact of Severe Weather Events on Public Health and Economy in the United States
 
